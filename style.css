@@ -1,0 +1,46 @@
+.inputbox{
+  padding:7px;
+  border:#CCC 1px solid;
+  border-radius: 3px;
+}
+.coolBox{
+  padding:5px;
+  background:#34BF59;
+  color:#FFF;
+  font-weight:bold;
+  margin:4px;
+  cursor: pointer;
+  display: inline-block;
+}
+.selected{
+  background:#175728;
+}
+.right{
+  float:right;
+}
+.h2{
+  font-size: 1.5em;
+  -webkit-margin-before: 0.83em;
+  -webkit-margin-after: 0.83em;
+  -webkit-margin-start: 0px;
+  -webkit-margin-end: 0px;
+  font-weight: bold;
+}
+.padd{
+  padding-bottom: 11px;
+}
+.expadd{
+  padding-bottom: 15px;
+}
+#app{
+  width: 50%;
+  margin-left: auto;
+  margin-right:auto;
+  padding: 10px;
+  border-radius: 5px;
+  background: #FFF;
+  height: 100%;
+}
+body{
+  background: #5495AB;
+}
