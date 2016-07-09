@@ -7,7 +7,7 @@
     "start": "webpack-dev-server --hot"
   },
   "author": "Yash Mathur",
-  "license": "ISC",
+  "license": "",
   "dependencies": {
     "webpack": "^1.13.1",
     "webpack-dev-server": "^1.14.1"
