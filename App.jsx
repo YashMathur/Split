@@ -1,6 +1,5 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
-import FacebookLogin from 'react-facebook-login';
 
 function hasClass(elem, klass){
      return (" "+elem.className+" ").indexOf(" "+klass+" ")>-1;
